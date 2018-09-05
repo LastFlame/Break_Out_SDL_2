@@ -1,0 +1,3 @@
+﻿  Break_Out.cpp
+d:\cppprojects\game\game\game\break_out.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Game.vcxproj -> D:\CppProjects\Game\Game\Debug\Game.exe
