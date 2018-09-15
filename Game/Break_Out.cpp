@@ -61,7 +61,7 @@ void Break_Out::Game_Logic(void)
 
 		//check if the ball is over the horizontal bound
 		//and bounce it.
-		else if (m_ball->GetRect().y > 800)
+		else if (m_ball->GetRect().y > 800 || m_ball->GetRect().y < 16)
 		{
 			m_ball_dir_y *= -1;
 		}
